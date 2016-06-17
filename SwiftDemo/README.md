@@ -1,2 +1,0 @@
-# iOS-Basic
-Swift Syntax
