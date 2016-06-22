@@ -59,3 +59,4 @@ john!.apartment = unit4A
 unit4A!.tenant = john
 
 //解决实例之间的循环强引用
+NSLog("%@", <#T##args: CVarArgType...##CVarArgType#>)

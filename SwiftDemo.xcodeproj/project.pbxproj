@@ -35,6 +35,7 @@
 		C50270A61D14396B006BD61A /* properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = properties.playground; sourceTree = "<group>"; };
 		C50270A81D14396B006BD61A /* set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = set.playground; sourceTree = "<group>"; };
 		C50270A91D14396B006BD61A /* tuples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tuples.playground; sourceTree = "<group>"; };
+		C528E2591D1A16CF0086FA03 /* typeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = typeCasting.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 				C50270A81D14396B006BD61A /* set.playground */,
 				C50270A91D14396B006BD61A /* tuples.playground */,
 				C502709A1D143884006BD61A /* extension.playground */,
+				C528E2591D1A16CF0086FA03 /* typeCasting.playground */,
 			);
 			path = SwiftDemo;
 			sourceTree = "<group>";
@@ -262,6 +264,7 @@
 				C50270991D143862006BD61A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
