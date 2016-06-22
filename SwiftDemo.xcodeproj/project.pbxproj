@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C528E25B1D1A17630086FA03 /* syntax.md in Sources */ = {isa = PBXBuildFile; fileRef = C528E25A1D1A17630086FA03 /* syntax.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		C502708E1D143862006BD61A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -36,6 +40,7 @@
 		C50270A81D14396B006BD61A /* set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = set.playground; sourceTree = "<group>"; };
 		C50270A91D14396B006BD61A /* tuples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tuples.playground; sourceTree = "<group>"; };
 		C528E2591D1A16CF0086FA03 /* typeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = typeCasting.playground; sourceTree = "<group>"; };
+		C528E25A1D1A17630086FA03 /* syntax.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = syntax.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +89,7 @@
 				C50270A91D14396B006BD61A /* tuples.playground */,
 				C502709A1D143884006BD61A /* extension.playground */,
 				C528E2591D1A16CF0086FA03 /* typeCasting.playground */,
+				C528E25A1D1A17630086FA03 /* syntax.md */,
 			);
 			path = SwiftDemo;
 			sourceTree = "<group>";
@@ -145,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C528E25B1D1A17630086FA03 /* syntax.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
